@@ -1,2 +1,3 @@
-# word_clock
-Word clock Arduino
+# Word clock Arduino
+
+Reference: https://robojax.com/learn/arduino/?vid=robojax_16ch_relay
