@@ -1,5 +1,4 @@
 
-
 /*
  * Arduino code to control 16 channel relay with Arduino UNO
  * Control more than 1 relay
@@ -21,6 +20,8 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+    This code has been modified by Lorenzo Battilocchi (@XeroHero) for the purpose of the "Word Clock" project.
  */
 
 
